@@ -1,1 +1,3 @@
 # Conflit
+
+Resolution de conflit
